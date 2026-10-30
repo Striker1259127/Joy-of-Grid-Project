@@ -1,7 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 
+.dm-sans {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 body {
+    font-family: "DM Sans", sans-serif;
     background: rgb(33, 44, 55);
     color: #fff;
     font-family: 'Noto Sans', sans-serif;
